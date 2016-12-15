@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DndConsole.Models
 {
-    class Inventory
+    public class Inventory
     {
         public List<Item> InventoryItems { get; set; }
     }

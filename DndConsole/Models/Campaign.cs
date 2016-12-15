@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DndConsole.Models
 {
-    class Campaign
+    public class Campaign
     {
     }
 }

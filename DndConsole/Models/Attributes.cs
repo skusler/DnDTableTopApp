@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DndConsole.Models
 {
-    class Attributes
+    public class Attributes
     {
         public int Strength { get; set; }
     }

@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace DndConsole.Enums
 {
-    class ItemType
+    public enum ItemType
     {
+        Weapon,
+        Armor,
+        Potion
     }
 }

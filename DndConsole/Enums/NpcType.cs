@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace DndConsole.Enums
 {
-    class NpcType
+    public enum NpcType
     {
+        Villager,
+        Guard,
+        King,
+        Military
     }
 }

@@ -8,9 +8,10 @@ using DndConsole.Models;
 
 namespace DndConsole.Interfaces
 {
-    interface IMonster
+    public interface IMonster
     {
         string Name { get; set; }
+        int Level { get; set; }
         Attributes Attributes { get; set; }
         SpellList SpellList { get; set; }
         LootTable Loot { get; set; }

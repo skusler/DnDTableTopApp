@@ -8,9 +8,10 @@ using DndConsole.Interfaces;
 
 namespace DndConsole.Models
 {
-    class NonPlayerCharacter : ICharacter
+    public class NonPlayerCharacter : ICharacter
     {
         public string Name { get; set; }
+        public int Level { get; set; }
         public Race Race { get; set; }
         public Job Job { get; set; }
         public Attributes Attributes { get; set; }

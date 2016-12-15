@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace DndConsole.Enums
 {
-    class Landscape
+    public enum LandscapeType
     {
+        Forest,
+        Hilly,
+        Plains,
+        Tundra
     }
 }

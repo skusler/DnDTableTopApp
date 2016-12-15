@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DndConsole.Models
 {
-    class SpellList
+    public class SpellList
     {
         public List<Spell> Spells { get; set; }
     }

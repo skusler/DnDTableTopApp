@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DndConsole.Models
 {
-    class LootTable
+    public class LootTable
     {
         public List<Item> Loot { get; set; }
     }

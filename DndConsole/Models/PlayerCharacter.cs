@@ -8,7 +8,7 @@ using DndConsole.Interfaces;
 
 namespace DndConsole.Models
 {
-    class PlayerCharacter : ICharacter
+    public class PlayerCharacter : ICharacter
     {
         public string Name { get; set; }
         public Race Race { get; set; }

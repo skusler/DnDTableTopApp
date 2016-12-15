@@ -8,7 +8,7 @@ using DndConsole.Interfaces;
 
 namespace DndConsole.Models
 {
-    class Monster : IMonster
+    public class Monster : IMonster
     {
         public string Name { get; set; }
         public Attributes Attributes { get; set; }
