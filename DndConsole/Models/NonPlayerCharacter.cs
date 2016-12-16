@@ -15,7 +15,6 @@ namespace DndConsole.Models
         public Race Race { get; set; }
         public Job Job { get; set; }
         public Attributes Attributes { get; set; }
-
         public SpellList SpellList { get; set; }
         public Inventory Inventory { get; set; }
     }

@@ -11,6 +11,7 @@ namespace DndConsole.Models
     public class Monster : IMonster
     {
         public string Name { get; set; }
+        public int Level { get; set; }
         public Attributes Attributes { get; set; }
         public SpellList SpellList { get; set; }
         public LootTable Loot { get; set; }

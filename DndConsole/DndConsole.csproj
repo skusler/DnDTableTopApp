@@ -71,9 +71,21 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Factories\DiceFactory.cs" />
+    <Compile Include="Exceptions\DieTypeNotImplementedException.cs" />
     <Compile Include="Enums\ItemType.cs" />
     <Compile Include="Enums\LandscapeType.cs" />
     <Compile Include="Enums\NpcType.cs" />
+    <Compile Include="Enums\TypeOfDie.cs" />
+    <Compile Include="Generators\DiceListGenerator.cs" />
+    <Compile Include="Interfaces\IRollable.cs" />
+    <Compile Include="Models\DiceModels\D10.cs" />
+    <Compile Include="Models\DiceModels\D2.cs" />
+    <Compile Include="Models\DiceModels\D20.cs" />
+    <Compile Include="Models\DiceModels\D3.cs" />
+    <Compile Include="Models\DiceModels\D6.cs" />
+    <Compile Include="Models\DiceModels\Dice.cs" />
+    <Compile Include="Generators\DiceRollGenerator.cs" />
     <Compile Include="Generators\ItemGenerator.cs" />
     <Compile Include="Generators\LandscapeGenerator.cs" />
     <Compile Include="Generators\NpcGenerator.cs" />

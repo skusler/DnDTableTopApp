@@ -11,6 +11,7 @@ namespace DndConsole.Models
     public class PlayerCharacter : ICharacter
     {
         public string Name { get; set; }
+        public int Level { get; set; }
         public Race Race { get; set; }
         public Job Job { get; set; }
         public Attributes Attributes { get; set; }
