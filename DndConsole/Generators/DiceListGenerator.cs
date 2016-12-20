@@ -12,16 +12,16 @@ namespace DndConsole.Generators
 {
     public static class DiceListGenerator
     {
-        public static Dice Generate(TypeOfDie type, int numberOfDie)
+        public static List<Die> Generate(int numberOfSides, int numberOfDie)
         {
-            List<IRollable> dice = new List<IRollable>();
+            List<Die> dice = new List<Die>();
 
             for (int i = 0; i < numberOfDie; i++)
             {
-                dice.Add(DiceFactory.CreateDie(type));
+                dice.Add(DiceFactory.CreateDie(numberOfSides));
             }
 
-            return new Dice(dice);
+            return dice;
         }
     }
 }

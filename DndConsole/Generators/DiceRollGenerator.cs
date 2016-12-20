@@ -10,10 +10,15 @@ namespace DndConsole.Generators
 {
     public class DiceRollGenerator
     {
-        public int RollDice(Dice dice)
+        public int RollDie(Die die)
+        {
+            return die.Roll();
+        }
+
+        public int RollDice(List<Die> dice)
         {
             int value = 0;
-            foreach (IRollable die in dice.ListOfDice)
+            foreach (Die die in dice)
             {
                 value += die.Roll();
             }
