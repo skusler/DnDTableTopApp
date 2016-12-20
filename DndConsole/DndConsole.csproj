@@ -84,6 +84,7 @@
     <Compile Include="Models\DiceModels\D20.cs" />
     <Compile Include="Models\DiceModels\D3.cs" />
     <Compile Include="Models\DiceModels\D6.cs" />
+    <Compile Include="Models\DiceModels\DF.cs" />
     <Compile Include="Models\DiceModels\Dice.cs" />
     <Compile Include="Generators\DiceRollGenerator.cs" />
     <Compile Include="Generators\ItemGenerator.cs" />

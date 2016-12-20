@@ -1,0 +1,8 @@
+C:\Users\mmaggio\Source\Repos\DnDTableTopApp\DndConsole\bin\Debug\DndConsole.exe.config
+C:\Users\mmaggio\Source\Repos\DnDTableTopApp\DndConsole\obj\Debug\DndConsole.csprojResolveAssemblyReference.cache
+C:\Users\mmaggio\Source\Repos\DnDTableTopApp\DndConsole\obj\Debug\LoadWindow.g.cs
+C:\Users\mmaggio\Source\Repos\DnDTableTopApp\DndConsole\obj\Debug\NewWindow.g.cs
+C:\Users\mmaggio\Source\Repos\DnDTableTopApp\DndConsole\obj\Debug\StartingWindow.g.cs
+C:\Users\mmaggio\Source\Repos\DnDTableTopApp\DndConsole\obj\Debug\App.g.cs
+C:\Users\mmaggio\Source\Repos\DnDTableTopApp\DndConsole\obj\Debug\DndConsole_MarkupCompile.cache
+C:\Users\mmaggio\Source\Repos\DnDTableTopApp\DndConsole\obj\Debug\DndConsole_MarkupCompile.lref
