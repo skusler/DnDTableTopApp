@@ -16,3 +16,6 @@ C:\Users\mmaggio\Source\Repos\DnDTableTopApp\DndConsole\obj\Debug\DndConsole.Pro
 C:\Users\mmaggio\Source\Repos\DnDTableTopApp\DndConsole\obj\Debug\DndConsole.csproj.GenerateResource.Cache
 C:\Users\mmaggio\Source\Repos\DnDTableTopApp\DndConsole\obj\Debug\DndConsole.exe
 C:\Users\mmaggio\Source\Repos\DnDTableTopApp\DndConsole\obj\Debug\DndConsole.pdb
+C:\Code\DnDTableTopApp\DndConsole\bin\Debug\DndConsole.exe.config
+C:\Code\DnDTableTopApp\DndConsole\obj\Debug\DndConsole.exe
+C:\Code\DnDTableTopApp\DndConsole\obj\Debug\DndConsole.pdb
